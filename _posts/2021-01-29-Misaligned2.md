@@ -1,5 +1,5 @@
 ---
-title: The Mystery of the Misaligned X-ray
+title: Overview
 tags: 
 article_header:
   type: cover
@@ -10,12 +10,8 @@ article_header:
 
 ## Stardate 98671.69  
 
-We spent today aligning the X-Ray beam. 
+The Kaneko paper [here] attempted to model genotype phenotype evolution using spin system to represent the evolutionary process. We are extending their work by studdying the non equilibrium-dynamics of the evolutionary proces modeling the system as a continuous time Markov Chain. 
 
-We went through all of the steps specified by SAXSquant. Everything worked until the sample adjustment stage, where we got an error saying "beam intensity is too low". A screen capture of the error is below. 
 
-![intensity error](/files/intensity_error.png)
+In their model, they represent the phenotypes as all ${\bf{S}}=[S_1...S_N] \in ({-1,+1})^{N}$ and the genotypes are the $J_{ij}$ interactions between the bits $S_{n}$.
 
-In the meantime, I made a render of the system because it was fun. 
-
-![SAXS renderm](/files/render.jpg)
