@@ -17,7 +17,7 @@ When the system is in equilibrium, we will have zero entropy production and the 
 
 The entropy production rate is given by 
 
-$$\dot{\sigma}=\frac{k_{b}}{2}\sum_{\nu}(W^{\nu}_{J,J'}P_{_{J'}}-W^{\nu}_{J',J}P_{_J})\ln\left(\frac{W^{\nu}_{J,J'}P_{{_{J'}}}}{W^{\nu}_{J',J}P_{_J}}\right)$$
+$\dot{\sigma}=\frac{k_{b}}{2}\sum_{\nu}(W^{\nu}_{J,J'}P_{_{J'}}-W^{\nu}_{J',J}P_{_J})\ln\left(\frac{W^{\nu}_{J,J'}P_{{_{J'}}}}{W^{\nu}_{J',J}P_{_J}}\right)$
 
 We can easily determine the accumulated entropy production from the trajectories (for a single heat bath). Note that the intermediate probabilities cancel and the trajectory level EP can be written as 
 
