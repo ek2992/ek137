@@ -1,5 +1,5 @@
 ---
-title: Detector info
+title: EP calculations
 article_header:
   type: cover
   image:
