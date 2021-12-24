@@ -51,5 +51,7 @@ Naoto Shiraishi derived information thoeretic bounds on thermal relaxation proce
 
 Another result by Shiraishi:
 
+The bounds are ALWAYS extremely weak. 
+
 
 
