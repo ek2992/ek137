@@ -23,7 +23,7 @@ Additionally, for thermal relaxation, we can check the average entropy productio
 $$\langle \sigma \rangle = D(\bf{p(0)}\vert \vert \bf{p_{eq}}) −D(\bf{p(\tau} )\vert \vert \bf{p_{eq}})$$
 Here is an example.
 <!-- <img src="/files/250000.svg"> -->
-<img class="image image--sm" src="/files/250000.svg"/>
+<img class="image image--lg" src="/files/250000.svg"/>
 
 ## Target spins
 
