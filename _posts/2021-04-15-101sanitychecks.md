@@ -23,6 +23,8 @@ $$\langle \sigma \rangle = D(\bf{p(0)}\vert \vert \bf{p_{eq}}) −D(\bf{p(\tau} 
 Here is an example.
 <!-- <img src="/files/250000.svg"> -->
 <img src="/files/250000.svg">
+
+
 **note to self: fix this plot (sum not rendering and formatting is off)
 
 ## Target spins
