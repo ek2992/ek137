@@ -36,6 +36,8 @@ We  can also compare the probability distribution on the ensemble level to the v
 
 <img src="/files/allones.png"> * here is an example for the probability distribution for one heat bath at T=1 and 500000 samples. As we add more samples, the KL divergence should decrease.
 
+<img src="/files/figure.svg">
+
 ## Information theoretic bounds 
 
 
