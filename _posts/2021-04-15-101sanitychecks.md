@@ -31,6 +31,13 @@ Additionally, for thermal relaxation, we can check the average entropy productio
 
 ## Target spins
 
+Due to symmetry, the entropy production will be the same regardless of the order of target spins. 
+{:.warning}
+**Example**
+$$M_{012}=\boxed{\boxed{S_{0}} \quad  \boxed{S_{1}} \quad \boxed{S_{2}} \quad S_{3}\quad S_{4}}$$
+
+
+These two configurations should produce the same EP plots... and indeed... they do!
 
 ## Ensemble probability
 
