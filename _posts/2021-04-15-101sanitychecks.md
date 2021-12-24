@@ -40,4 +40,5 @@ We  can also compare the probability distribution on the ensemble level to the v
 
 ## Information theoretic bounds 
 
+<img src="/files/equality.svg">
 
