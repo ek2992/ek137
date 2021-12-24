@@ -26,7 +26,7 @@ For more and more samples, the IFT should approach one. If it does not, reguardl
 
 Ensemble level entropy production has to always be increasing. Here are plots with error bars for more and more samples. 
 
-Additionally, for thermal relaxation, we can check the average entropy production from the KL divergence $$\langle \sigma \rangle = = D(\bm{p(0)}||\bm{p_{eq}}) −D(\bm{p(\tau} )||\bm{p_{eq}})$$
+Additionally, for thermal relaxation, we can check the average entropy production from the KL divergence $$\langle \sigma \rangle = D(\bm{p(0)}||\bm{p_{eq}}) −D(\bm{p(\tau} )||\bm{p_{eq}})$$
 
 ## Target spins
 
