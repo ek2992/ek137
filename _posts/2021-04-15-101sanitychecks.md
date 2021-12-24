@@ -4,7 +4,7 @@ title: Sanity Checks
   image:
     src: 
 ---
-### Sanity Checks
+# Sanity Checks
   
 ## Integral fluctuation theorum 
 
