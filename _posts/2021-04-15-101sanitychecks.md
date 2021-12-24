@@ -13,7 +13,8 @@ The IFT must hold *except* when the probability of the reverse transition is not
 
 For more and more samples, the IFT should approach one. If it does not, reguardless of how close it is, something is wrong. 
 
-$$\langle e^{-\sigma} \rangle = 1$$
+$$\langle e^{-\sigma} \rangle = 1$$ 
+**note to self: fix this plot (sum not rendering and formatting is off)
 ## Average entropy production
 
 Ensemble level entropy production has to always be increasing. Here are plots with error bars for more and more samples. 
