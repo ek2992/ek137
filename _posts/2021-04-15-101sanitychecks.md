@@ -17,9 +17,8 @@ $$\langle e^{-\sigma} \rangle = 1$$
 
 ## Average entropy production
 
-Ensemble level entropy production has to always be increasing. Here are plots with error bars for more and more samples. 
 
-Additionally, for thermal relaxation, we can check the average entropy production from the KL divergence 
+For thermal relaxation, we can check the average entropy production from the KL divergence. Additionally, entropy will always be increasing. *to do: show for smaller number of samples with error bars 
 
 $$\langle \sigma \rangle = D(\bf{p(0)}\vert \vert \bf{p_{eq}}) −D(\bf{p(\tau} )\vert \vert \bf{p_{eq}})$$
 Here is an example.
