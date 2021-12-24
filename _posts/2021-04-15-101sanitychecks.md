@@ -1,6 +1,5 @@
 ---
-title: 100 ways to sanity check the code 
-article_header:
+title: Sanity Checks
   type: cover
   image:
     src: 
