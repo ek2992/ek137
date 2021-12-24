@@ -9,7 +9,7 @@ article_header:
 ## Detector information
 
 <ol>
-  <li>Make sure $\langleee^{-\sigma}\rangle$ = 1 * </li>
+  <li>Make sure $\langle^{-\sigma}\rangle$ = 1 * </li>
   <li>Entropy always increasing</li>
   <li>Check with Shiarashi bounds for thermally relaxing systems</li>
   <li>symetry - independent on ordering</li>
@@ -26,6 +26,7 @@ For more and more samples, the IFT should approach one. If it does not, reguardl
 
 Ensemble level entropy production has to always be increasing. Here are plots with error bars for more and more samples. 
 
+Additionally, for thermal relaxation, we can check the average entropy production from the KL divergence $$\langle \sigma \rangle = = D(\bm{p(0)}||\bm{p_{eq}}) −D(\bm{p(\tau} )||\bm{p_{eq}})$$
 
 ## Target spins
 
@@ -38,6 +39,6 @@ We  can also compare the probability distribution on the ensemble level to the v
 <img src="/files/probability1500000.svg">
 
 ## Information theoretic bounds 
-
+Naoto Shiraishi derived information thoeretic bounds on thermal relaxation processes.
 <img src="/files/equality.svg">
 
