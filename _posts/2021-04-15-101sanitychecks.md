@@ -25,7 +25,7 @@ Here is an example.
 <img src="/files/250000.svg">
 
 
-**note to self: fix this plot (sum not rendering and formatting is off)
+*note to self: fix this plot (sum not rendering and formatting is off)*
 
 ## Target spins
 
