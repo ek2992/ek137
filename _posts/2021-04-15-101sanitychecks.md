@@ -6,16 +6,7 @@ article_header:
     src: 
 ---
 
-## Detector information
-
-<ol>
-  <li>Make sure $\langle e^{-\sigma}\rangle$ = 1 * </li>
-  <li>Entropy always increasing</li>
-  <li>Check with Shiarashi bounds for thermally relaxing systems</li>
-  <li>symetry - independent on ordering</li>
   
-</ol>
-
 ## Integral fluctuation theorum 
 
 The IFT must hold *except* when the probability of the reverse transition is not possible or if you violate detailed balance. For example, if you start your system in a delta function distribution, the IFT does not hold.
