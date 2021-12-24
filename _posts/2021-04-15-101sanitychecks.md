@@ -23,7 +23,7 @@ Additionally, for thermal relaxation, we can check the average entropy productio
 $$\langle \sigma \rangle = D(\bf{p(0)}\vert \vert \bf{p_{eq}}) −D(\bf{p(\tau} )\vert \vert \bf{p_{eq}})$$
 Here is an example.
 <!-- <img src="/files/250000.svg"> -->
-<img class="image image--lg" src="/files/250000.svg"/>
+<src="/files/250000.svg"/>
 
 ## Target spins
 
@@ -44,8 +44,8 @@ We  can also compare the probability distribution on the ensemble level to the v
 
 ## Information theoretic bounds 
 Naoto Shiraishi derived information thoeretic bounds on thermal relaxation processes. Here is an example for T=1 and 
-<img src="/files/250000.svg">
-
+<!-- <img src="/files/250000.svg">
+ -->
 ## Speed limit theorums 
 
 Another result by Shiraishi:
