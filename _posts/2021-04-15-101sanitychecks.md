@@ -9,7 +9,7 @@ article_header:
 ## Detector information
 
 <ol>
-  <li>Make sure $\langle^{-\sigma}\rangle$ = 1 * </li>
+  <li>Make sure $\langle e^{-\sigma}\rangle$ = 1 * </li>
   <li>Entropy always increasing</li>
   <li>Check with Shiarashi bounds for thermally relaxing systems</li>
   <li>symetry - independent on ordering</li>
@@ -22,6 +22,7 @@ The IFT must hold *except* when the probability of the reverse transition is not
 
 For more and more samples, the IFT should approach one. If it does not, reguardless of how close it is, something is wrong. 
 
+$$\langle e^{-\sigma} \rangle = 1$$
 ## Average entropy production
 
 Ensemble level entropy production has to always be increasing. Here are plots with error bars for more and more samples. 
