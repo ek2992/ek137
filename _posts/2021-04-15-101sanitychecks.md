@@ -52,3 +52,9 @@ We  can also compare the probability distribution on the ensemble level to the v
 Naoto Shiraishi derived information thoeretic bounds on thermal relaxation processes.
 <img src="/files/equality.svg">
 
+## Speed limit theorums 
+
+Another result by Shiraishi:
+
+
+
