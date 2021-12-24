@@ -21,7 +21,8 @@ Ensemble level entropy production has to always be increasing. Here are plots wi
 Additionally, for thermal relaxation, we can check the average entropy production from the KL divergence 
 
 $$\langle \sigma \rangle = D(\bf{p(0)}\vert \vert \bf{p_{eq}}) −D(\bf{p(\tau} )\vert \vert \bf{p_{eq}})$$
-
+Here is an example.
+<img src="/files/250000.svg">
 ## Target spins
 
 Due to symmetry, the entropy production will be the same regardless of the order of target spins. 
@@ -40,8 +41,8 @@ We  can also compare the probability distribution on the ensemble level to the v
 <img src="/files/probability1500000.svg">
 
 ## Information theoretic bounds 
-Naoto Shiraishi derived information thoeretic bounds on thermal relaxation processes.
-<img src="/files/equality.svg">
+Naoto Shiraishi derived information thoeretic bounds on thermal relaxation processes. Here is an example for T=1 and 
+<img src="/files/250000.svg">
 
 ## Speed limit theorums 
 
