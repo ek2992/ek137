@@ -29,7 +29,7 @@ Ensemble level entropy production has to always be increasing. Here are plots wi
 
 Additionally, for thermal relaxation, we can check the average entropy production from the KL divergence 
 
-$$\langle \sigma \rangle = D(\bm{p(0)}\vert \vert \bm{p_{eq}}) −D(\bm{p(\tau} )\vert \vert \bm{p_{eq}})$$
+$$\langle \sigma \rangle = D(\bf{p(0)}\vert \vert \bf{p_{eq}}) −D(\bf{p(\tau} )\vert \vert \bf{p_{eq}})$$
 
 ## Target spins
 
