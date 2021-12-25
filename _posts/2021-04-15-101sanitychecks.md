@@ -4,8 +4,12 @@ title: Sanity Checks
   image:
     src: 
 ---
+Still need to understand when the IFT hols and does not hold!!! 
+{:.warning}
+
 # Sanity Checks
-  
+ 
+ 
 ## Integral fluctuation theorum 
 
 The IFT must hold *except* when the probability of the reverse transition is not possible or if you violate detailed balance. For example, if you start your system in a delta function distribution, the IFT does not hold.
