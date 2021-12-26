@@ -1,5 +1,5 @@
 ---
-title: EP calculations
+title: Sanity checks
 article_header:
   type: cover
   image:
@@ -10,9 +10,22 @@ article_header:
 Still need to understand when the IFT hols and does not hold!!! 
 {:.warning}
 
-# Sanity Checks
- 
- 
+# Rate matrix construction
+
+## Target spins
+
+Due to symmetry, the entropy production will be the same regardless of the order of target spins. 
+{:.warning}
+**Example**
+$$M_{012}=\boxed{\boxed{S_{0}} \quad  \boxed{S_{1}} \quad \boxed{S_{2}} \quad S_{3}\quad S_{4}}$$
+
+
+## Column sums 
+
+
+
+# Sampling 
+
 ## Integral fluctuation theorum 
 
 The IFT must hold *except* when the probability of the reverse transition is not possible or if you violate detailed balance. For example, if you start your system in a delta function distribution, the IFT does not hold.
@@ -33,13 +46,6 @@ Here is an example.
 
 
 *note to self: fix this plot (sum not rendering and formatting is off)*
-
-## Target spins
-
-Due to symmetry, the entropy production will be the same regardless of the order of target spins. 
-{:.warning}
-**Example**
-$$M_{012}=\boxed{\boxed{S_{0}} \quad  \boxed{S_{1}} \quad \boxed{S_{2}} \quad S_{3}\quad S_{4}}$$
 
 
 These two configurations should produce the same EP plots... and indeed... they do!
