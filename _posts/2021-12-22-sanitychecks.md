@@ -1,9 +1,12 @@
 ---
-title: Sanity Checks
+title: EP calculations
+article_header:
   type: cover
   image:
     src: 
 ---
+
+
 Still need to understand when the IFT hols and does not hold!!! 
 {:.warning}
 
