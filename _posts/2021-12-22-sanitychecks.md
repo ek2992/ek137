@@ -34,6 +34,9 @@ For more and more samples, the IFT should approach one. If it does not, reguardl
 
 $$\langle e^{-\sigma} \rangle = 1$$ 
 
+
+# General 
+
 ## Average entropy production
 
 
