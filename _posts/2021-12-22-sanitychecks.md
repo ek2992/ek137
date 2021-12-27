@@ -56,7 +56,7 @@ These two configurations should produce the same EP plots... and indeed... they 
 ## Ensemble probability
 
 We  can also compare the probability distribution on the ensemble level to the value we get from exponentiating the rate matrix. 
-<img src="/files/allones.png"> *here is an example for the probability distribution for one heat bath at T=1 and 500000 samples. As we add more samples, the KL divergence should decrease.
+<img src="/files/ep50000.svg"> *here is an example for the probability distribution for one heat bath at T=1 and 500000 samples. As we add more samples, the KL divergence should decrease.
 
 <img src="/files/probability1500000.svg">
 
