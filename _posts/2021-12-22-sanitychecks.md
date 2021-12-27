@@ -43,12 +43,11 @@ check 1: average entropy production is always increasing
 check 2: average entropy production from Giulespie is the same as from rate matrix calculation
 check 3: average entropy production is the same as from KL divergence (for one heat bath)
 
-I can calculate the ensemble entropy production from my rate matrix as $$\\\langle dot{sigma}\rangle = W_{j,j'}p(J')ln\frac{W_{J,J'}p(J')}{{J',J}p({J})}$$
-
-For thermal relaxation, we can check the average entropy production from the KL divergence. Additionally, entropy will always be increasing. *to do: show for smaller number of samples with error bars 
-
-$$\langle \sigma \rangle = D(\bf{p(0)}\vert \vert \bf{p_{eq}}) −D(\bf{p(\tau} )\vert \vert \bf{p_{eq}})$$
+I can calculate the ensemble entropy production from my rate matrix as $$\\\langle dot{sigma}\rangle = W_{J,J'}p(J')ln\frac{W_{J,J'}p(J')}{{J',J}p({J})}$$. Additionally, 
+For thermal relaxation, we can also check the average entropy production from the KL divergence. $$\langle \sigma \rangle = D(\bf{p(0)}\vert \vert \bf{p_{eq}}) −D(\bf{p(\tau} )\vert \vert \bf{p_{eq}})$$
 Here is an example.
+
+
 <!-- <img src="/files/250000.svg"> -->
 <img src="/files/250000.svg">
 
