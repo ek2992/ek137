@@ -49,7 +49,7 @@ Here is an example.
 
 
 <!-- <img src="/files/250000.svg"> -->
-<img src="/files/boundkl.svg">
+<img src="/files/bkl.svg">
 
 
 *note to self: fix this plot (sum not rendering and formatting is off)*
