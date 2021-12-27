@@ -6,6 +6,14 @@ article_header:
     src: 
 ---
 
+notes: state of a  gene in cold heat bath going to hot heat bath 
+
+flalsco and espisito (TUR)
+TUR for EP and information flow 
+Rodald and Neri - time for ep to get to certain value . 
+Liu Ueda one
+
+-better the further out of equilibrium. 
 
 Still need to understand when the IFT hols and does not hold!!! 
 {:.warning}
